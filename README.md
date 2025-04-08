@@ -1,2 +1,1 @@
-# .github
-Github Public Page
+# Welcome to the Palen Lab GitHub!
